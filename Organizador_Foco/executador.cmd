@@ -1,2 +1,1 @@
-python organizador_arquivos_foco.py
-python organizador_mes.py
+python o.py

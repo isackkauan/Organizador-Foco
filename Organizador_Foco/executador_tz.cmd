@@ -1,1 +1,0 @@
-python t_organizador.py
